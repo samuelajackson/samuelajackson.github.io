@@ -1,5 +1,4 @@
-title:Welcome to Samuel Jackson's github page!
-description:This is where you can find my repositories and whatnot.
+
 
 ## Welcome to Samuel Jackson's github page!
 This is where you can find my repositories and whatnot.
