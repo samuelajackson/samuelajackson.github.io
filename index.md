@@ -1,3 +1,6 @@
+title:Welcome to Samuel Jackson's github page!
+description:This is where you can find my repositories and whatnot.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samuelajackson/samuelajackson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
