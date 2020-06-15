@@ -1,7 +1,7 @@
 
 
 ## Welcome to Samuel Jackson's github page!
-This is where you can find my repositories and whatnot.
+This is where I am displaying academic projects.
 
 ### Education
 
@@ -14,8 +14,9 @@ I am currently studying at Boise State University. Relevant coursework includes:
 
 ### Employment
 
-I am always on the lookout for opportunities so if you know anyone hiring CS majors
-feel free to share my information with them!
+I am always on the lookout for opportunities. I am especially interested in positions
+related to computer science that will allow me to use the knowledge I've acquired
+practically.
 
 ### Contact Information
 
