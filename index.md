@@ -20,9 +20,14 @@ I am always on the lookout for opportunities. I am especially interested in posi
 related to computer science that will allow me to use the knowledge I've acquired
 practically.
 
+### Academic Projects
+
+#### Hash Table
+[HashTable Repository](https://github.com/samuelajackson/hashTable)
+
 ### Contact Information
 
-Here is my contact info in a table
+Here is my contact info in a table:
 
 Method | Sam's Info
 ------------ | -------------
