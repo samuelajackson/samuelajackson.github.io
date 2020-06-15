@@ -23,7 +23,6 @@ practically.
 ### Academic Projects
 
 **Hash Table**
-
 [HashTable Repository](https://github.com/samuelajackson/hashTable)
 
 ### Contact Information
