@@ -22,8 +22,18 @@ practically.
 
 ### Academic Projects
 
-**Hash Table**
-[HashTable Repository](https://github.com/samuelajackson/hashTable)
+[HashTable](https://github.com/samuelajackson/hashTable)
+Using an array-based implementation, this project fulfills the HashTable ADT. Users
+can set the input type as well as the load factor and the program will sort the given
+data into hash tables using both linear hashing and double hashing. Results are printed
+into the console that displays the average number of probes per element, as well as the
+number of duplicates in the data.
+
+[Java/MySQL Database Management](https://github.com/samuelajackson/CS-HU310Final)
+This project was a collaborative project between myself and another student, Terran
+Dykes. Here, a database that was created in MySQL is managed via Java code. This
+depository holds said Java code, which parses user inputted information to edit the
+database.
 
 ### Contact Information
 
