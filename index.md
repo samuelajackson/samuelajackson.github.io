@@ -12,6 +12,8 @@ I am currently studying at Boise State University. Relevant coursework includes:
 - ECE330
 - Various hatchery units
 
+Current GPA: 3.8
+
 ### Employment
 
 I am always on the lookout for opportunities. I am especially interested in positions
