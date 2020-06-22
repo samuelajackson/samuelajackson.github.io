@@ -35,6 +35,16 @@ Dykes. Here, a database that was created in MySQL is managed via Java code. This
 depository holds said Java code, which parses user inputted information to edit the
 database.
 
+**SMASH Shell** Using C, I created a shell that can be launched from the BASH shell itself. This
+project involved the use of structs to store information like the history command; furthermore, both
+Fork and Pipe were used to divert unknown commands to the BASH shell, allowing for increased
+functionality.
+
+**ReaderOfBooks GUI** My first major programming project, this Java based GUI allows the user to
+add a list of text files into a reader and select them, opening their contents. This program uses JButtons
+and action listeners in a dynamic way and demonstrates an understanding of graphic display management.
+
+
 ### Contact Information
 
 Here is my contact info in a table:
